@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nick Landar</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasbert&label=Profile%20views&color=0e75b6&style=flat" alt="fasbert" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasbert&label=Profile%20views&color=0e75b6&style=flat" alt="fasbert" /> </p>
 - 📫 How to reach me **nikita.landar96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
