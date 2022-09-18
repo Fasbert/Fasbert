@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Nick Landar</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasbert&label=Profile%20views&color=0e75b6&style=flat" alt="fasbert" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nicklandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicklandar" height="30" width="40" /></a>
