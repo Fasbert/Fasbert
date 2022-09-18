@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Landar</h1>
-
-- 📫 How to reach me **nikita.landar96@gmail.com**
+<h3 align="center"> You can reach me: **nikita.landar96@gmail.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
